@@ -20,8 +20,32 @@ namespace InheritanceDemo
             Title = "My firs post";
             SendByUsername = "Daniel S" ;
             IsPublic = true;
-            Console.WriteLine("Constructor set");
         }
 
+        // Instance constructor that has three parameters 
+        public Post(string title, bool isPublic, string sendByUsername)
+        {
+            this.ID = GetNextID();
+            this.Title = title;
+            this.SendByUsername = sendByUsername;
+            this.IsPublic = isPublic;
+        }
+
+        protected int GetNextID()
+        {
+            return ++currentPostId;
+        }
+
+        public void Update(string title, bool isPublic)
+        {
+            this.Title = title;
+            this.IsPublic = isPublic;
+        }
+
+        // Virtual method override the System.Object.ToString method that is inherited
+        public override string ToString()
+        {
+            return String.Format("{0} - {1} - by {2}",this.ID, this.Title, this.SendByUsername);
+        }
     }
 }
