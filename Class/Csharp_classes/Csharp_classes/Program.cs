@@ -6,6 +6,7 @@ namespace Csharp_classes
     {
         static void Main(string[] args)
         {
+            /*
             Car DCar = new Car();
             // Setters
             DCar.SetName("");
@@ -31,6 +32,9 @@ namespace Csharp_classes
             Car RWcar = new Car();
             Console.WriteLine("Read only accesor works : " + RWcar.MinSpeed);
             RWcar.MinSpeed2 = 20;
+            */
+            Members members1 = new Members();
+            members1.Introducing(true);
 
         }
     }
