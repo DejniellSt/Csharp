@@ -5,27 +5,23 @@
         static void Main(string[] args)
         {
             Car DCar = new Car();
-            DCar.setName("");
-            Console.WriteLine("Getter working : " + DCar.getName());
-            Console.WriteLine("Getter hp : " + DCar.getHp());
+            // Setters
+            DCar.SetName("");
+            // Getters
+            Console.WriteLine("Getter working : " + DCar.GetName());
+            Console.WriteLine("Getter hp : " + DCar.GetHp());
             DCar.Details();
             Car C1 = new Car("Audi",100,"Grey");
             C1.Details();
-            Car C2 = new Car("VW",350,"blue");
-            C2.Details();
             C1.Drive();
-            C2.Drive();
-            Console.WriteLine("Press 1 to stop the car");
+            
+            // Prop test 
+            Car PropTest = new Car();
+            Console.WriteLine(PropTest.Name);
+            //PropTest.Name = "Tesla";
+            PropTest.Details();
 
-            string userInput = Console.ReadLine();
-            if(userInput == "1") {
-                C1.Stop();
-                C2.Stop();
-            }
-            else
-            {
-                Console.WriteLine("Car still driving");
-            }
+            
         }
     }
 }

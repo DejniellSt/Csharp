@@ -52,7 +52,7 @@ namespace Csharp_classes
         }
 
         // Getters and Setters
-        public void setName(string name)
+        public void SetName(string name)
         {
             if (name == "")
             {
@@ -64,14 +64,18 @@ namespace Csharp_classes
             }
         }
 
-        public string getName() // not void because getter return something 
+        public string GetName() // not void because getter return something 
         {
             return _name;
         }
 
-        public int getHp()
+        public int GetHp()
         {
             return _hp ;
         }
+
+        // Properties
+        // public property 
+        public string Name { get { return _name; } set { _name = value; } }
     }
 }
