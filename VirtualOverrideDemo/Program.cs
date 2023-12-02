@@ -9,6 +9,9 @@
             D1.Play();
             D1.MakeSound();
             D1.Eat();
+            Bear B1 = new Bear("Freddy Fazbear",15);
+            B1.Eat();
+            B1.MakeSound();
         }
     }
 }
