@@ -40,7 +40,7 @@ namespace Csharp_classes
         // Method 
         public void Drive()
         {
-            Console.WriteLine($"{_name} is driving");
+            Console.WriteLine($"{_name} Driving test");
         }
         public void Stop()
         {
@@ -76,6 +76,23 @@ namespace Csharp_classes
 
         // Properties
         // public property 
-        public string Name { get { return _name; } set { _name = value; } }
+        public string Name 
+        {
+            get
+            { 
+                return _name; 
+            } // get accesor 
+            set 
+            { 
+                if (value == "")
+                {
+                    value = "Yo default properties working";
+                }
+                else
+                {
+                    _name = value;
+                }
+            } // set accesor 
+        }
     }
 }

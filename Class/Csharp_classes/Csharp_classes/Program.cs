@@ -14,11 +14,10 @@
             Car C1 = new Car("Audi",100,"Grey");
             C1.Details();
             C1.Drive();
-            
             // Prop test 
             Car PropTest = new Car();
-            Console.WriteLine(PropTest.Name);
-            //PropTest.Name = "Tesla";
+            //Console.WriteLine(PropTest.Name);
+            PropTest.Name = "";
             PropTest.Details();
 
             
