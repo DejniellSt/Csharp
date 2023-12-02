@@ -14,6 +14,7 @@ namespace Csharp_classes
         private string _name;
         private int _hp;
         private string _color;
+        private int _minSpeed;
 
         // Default Constructor 
         public Car()
@@ -21,6 +22,7 @@ namespace Csharp_classes
             _name = "BMW";
             _hp = 100;
             _color = "red";
+            _minSpeed = 15;
         }
         // Partial Specification Constructor  
         public Car(string name , int hp ) {
@@ -93,6 +95,20 @@ namespace Csharp_classes
                     _name = value;
                 }
             } // set accesor 
+        }
+
+        // Auto implemented properties 
+        public int MaxSpeed { get; set; }
+
+        // Read only accesor - getter without set , Write only accesor - setter without get
+        public int MinSpeed { get; } = 10; // Read only accesor 
+        public int MinSpeed2
+        { 
+            set
+            {
+                _minSpeed = value;
+                Console.WriteLine("Write only acceors works " + value);
+            }
         }
     }
 }

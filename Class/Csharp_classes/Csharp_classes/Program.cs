@@ -1,4 +1,6 @@
-﻿namespace Csharp_classes
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace Csharp_classes
 {
     internal class Program
     {
@@ -20,7 +22,16 @@
             PropTest.Name = "";
             PropTest.Details();
 
-            
+            // Auto implemented properties 
+            Car AutoProp = new Car();
+            AutoProp.MaxSpeed = 200;
+            Console.WriteLine("Max speed is : " + AutoProp.MaxSpeed);
+
+            // Read only / Write only accesor 
+            Car RWcar = new Car();
+            Console.WriteLine("Read only accesor works : " + RWcar.MinSpeed);
+            RWcar.MinSpeed2 = 20;
+
         }
     }
 }
