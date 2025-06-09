@@ -1,0 +1,15 @@
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/Ex_telephone_directory.csproj.AssemblyReference.cache
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/Ex_telephone_directory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/Ex_telephone_directory.AssemblyInfoInputs.cache
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/Ex_telephone_directory.AssemblyInfo.cs
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/Ex_telephone_directory.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/bin/Debug/net7.0/Ex_telephone_directory
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/bin/Debug/net7.0/Ex_telephone_directory.deps.json
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/bin/Debug/net7.0/Ex_telephone_directory.runtimeconfig.json
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/bin/Debug/net7.0/Ex_telephone_directory.dll
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/bin/Debug/net7.0/Ex_telephone_directory.pdb
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/Ex_telephone_directory.dll
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/refint/Ex_telephone_directory.dll
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/Ex_telephone_directory.pdb
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/Ex_telephone_directory.genruntimeconfig.cache
+/Users/user/Desktop/C#_basic/Ex_telephone_directory/Ex_telephone_directory/obj/Debug/net7.0/ref/Ex_telephone_directory.dll
