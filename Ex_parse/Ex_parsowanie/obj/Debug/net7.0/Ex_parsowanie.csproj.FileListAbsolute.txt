@@ -1,0 +1,15 @@
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/bin/Debug/net7.0/Ex_parsowanie
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/bin/Debug/net7.0/Ex_parsowanie.deps.json
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/bin/Debug/net7.0/Ex_parsowanie.runtimeconfig.json
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/bin/Debug/net7.0/Ex_parsowanie.dll
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/bin/Debug/net7.0/Ex_parsowanie.pdb
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/Ex_parsowanie.csproj.AssemblyReference.cache
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/Ex_parsowanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/Ex_parsowanie.AssemblyInfoInputs.cache
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/Ex_parsowanie.AssemblyInfo.cs
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/Ex_parsowanie.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/Ex_parsowanie.dll
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/refint/Ex_parsowanie.dll
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/Ex_parsowanie.pdb
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/Ex_parsowanie.genruntimeconfig.cache
+/Users/user/Desktop/C#_basic/Ex_parsowanie/Ex_parsowanie/obj/Debug/net7.0/ref/Ex_parsowanie.dll

@@ -1,0 +1,15 @@
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/bin/Debug/net7.0/Ex_interface
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/bin/Debug/net7.0/Ex_interface.deps.json
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/bin/Debug/net7.0/Ex_interface.runtimeconfig.json
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/bin/Debug/net7.0/Ex_interface.dll
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/bin/Debug/net7.0/Ex_interface.pdb
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/Ex_interface.csproj.AssemblyReference.cache
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/Ex_interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/Ex_interface.AssemblyInfoInputs.cache
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/Ex_interface.AssemblyInfo.cs
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/Ex_interface.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/Ex_interface.dll
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/refint/Ex_interface.dll
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/Ex_interface.pdb
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/Ex_interface.genruntimeconfig.cache
+/Users/user/Desktop/C#_basic/Ex_interface/Ex_interface/obj/Debug/net7.0/ref/Ex_interface.dll
