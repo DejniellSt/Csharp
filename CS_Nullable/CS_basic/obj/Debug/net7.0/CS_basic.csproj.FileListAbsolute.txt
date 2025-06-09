@@ -1,0 +1,15 @@
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/bin/Debug/net7.0/CS_basic
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/bin/Debug/net7.0/CS_basic.deps.json
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/bin/Debug/net7.0/CS_basic.runtimeconfig.json
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/bin/Debug/net7.0/CS_basic.dll
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/bin/Debug/net7.0/CS_basic.pdb
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/CS_basic.csproj.AssemblyReference.cache
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/CS_basic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/CS_basic.AssemblyInfoInputs.cache
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/CS_basic.AssemblyInfo.cs
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/CS_basic.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/CS_basic.dll
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/refint/CS_basic.dll
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/CS_basic.pdb
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/CS_basic.genruntimeconfig.cache
+/Users/user/Desktop/C#_basic/CS_basic/CS_basic/obj/Debug/net7.0/ref/CS_basic.dll

@@ -1,0 +1,15 @@
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/bin/Debug/net7.0/EX_abstract
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/bin/Debug/net7.0/EX_abstract.deps.json
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/bin/Debug/net7.0/EX_abstract.runtimeconfig.json
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/bin/Debug/net7.0/EX_abstract.dll
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/bin/Debug/net7.0/EX_abstract.pdb
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/EX_abstract.csproj.AssemblyReference.cache
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/EX_abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/EX_abstract.AssemblyInfoInputs.cache
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/EX_abstract.AssemblyInfo.cs
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/EX_abstract.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/EX_abstract.dll
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/refint/EX_abstract.dll
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/EX_abstract.pdb
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/EX_abstract.genruntimeconfig.cache
+/Users/user/Desktop/C#_basic/EX_abstract/EX_abstract/obj/Debug/net7.0/ref/EX_abstract.dll
