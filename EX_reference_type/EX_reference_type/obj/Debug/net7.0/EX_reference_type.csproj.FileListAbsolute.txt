@@ -1,0 +1,15 @@
+/Users/user/Projects/EX_reference_type/EX_reference_type/bin/Debug/net7.0/EX_reference_type
+/Users/user/Projects/EX_reference_type/EX_reference_type/bin/Debug/net7.0/EX_reference_type.deps.json
+/Users/user/Projects/EX_reference_type/EX_reference_type/bin/Debug/net7.0/EX_reference_type.runtimeconfig.json
+/Users/user/Projects/EX_reference_type/EX_reference_type/bin/Debug/net7.0/EX_reference_type.dll
+/Users/user/Projects/EX_reference_type/EX_reference_type/bin/Debug/net7.0/EX_reference_type.pdb
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/EX_reference_type.csproj.AssemblyReference.cache
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/EX_reference_type.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/EX_reference_type.AssemblyInfoInputs.cache
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/EX_reference_type.AssemblyInfo.cs
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/EX_reference_type.csproj.CoreCompileInputs.cache
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/EX_reference_type.dll
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/refint/EX_reference_type.dll
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/EX_reference_type.pdb
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/EX_reference_type.genruntimeconfig.cache
+/Users/user/Projects/EX_reference_type/EX_reference_type/obj/Debug/net7.0/ref/EX_reference_type.dll
