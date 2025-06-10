@@ -1,0 +1,15 @@
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/EX_ref_out.csproj.AssemblyReference.cache
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/EX_ref_out.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/EX_ref_out.AssemblyInfoInputs.cache
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/EX_ref_out.AssemblyInfo.cs
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/EX_ref_out.csproj.CoreCompileInputs.cache
+/Users/user/Projects/EX_ref_out/EX_ref_out/bin/Debug/net7.0/EX_ref_out
+/Users/user/Projects/EX_ref_out/EX_ref_out/bin/Debug/net7.0/EX_ref_out.deps.json
+/Users/user/Projects/EX_ref_out/EX_ref_out/bin/Debug/net7.0/EX_ref_out.runtimeconfig.json
+/Users/user/Projects/EX_ref_out/EX_ref_out/bin/Debug/net7.0/EX_ref_out.dll
+/Users/user/Projects/EX_ref_out/EX_ref_out/bin/Debug/net7.0/EX_ref_out.pdb
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/EX_ref_out.dll
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/refint/EX_ref_out.dll
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/EX_ref_out.pdb
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/EX_ref_out.genruntimeconfig.cache
+/Users/user/Projects/EX_ref_out/EX_ref_out/obj/Debug/net7.0/ref/EX_ref_out.dll
