@@ -1,0 +1,15 @@
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/bin/Debug/net7.0/EX_abstract_interface_diff
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/bin/Debug/net7.0/EX_abstract_interface_diff.deps.json
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/bin/Debug/net7.0/EX_abstract_interface_diff.runtimeconfig.json
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/bin/Debug/net7.0/EX_abstract_interface_diff.dll
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/bin/Debug/net7.0/EX_abstract_interface_diff.pdb
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/EX_abstract_interface_diff.csproj.AssemblyReference.cache
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/EX_abstract_interface_diff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/EX_abstract_interface_diff.AssemblyInfoInputs.cache
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/EX_abstract_interface_diff.AssemblyInfo.cs
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/EX_abstract_interface_diff.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/EX_abstract_interface_diff.dll
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/refint/EX_abstract_interface_diff.dll
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/EX_abstract_interface_diff.pdb
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/EX_abstract_interface_diff.genruntimeconfig.cache
+/Users/user/Desktop/C#/EX_abstract_interface_diff/EX_abstract_interface_diff/obj/Debug/net7.0/ref/EX_abstract_interface_diff.dll

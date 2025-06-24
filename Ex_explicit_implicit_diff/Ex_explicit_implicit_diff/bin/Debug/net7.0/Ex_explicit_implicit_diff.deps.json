@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ex_explicit_implicit_diff/1.0.0": {
+        "runtime": {
+          "Ex_explicit_implicit_diff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_explicit_implicit_diff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
