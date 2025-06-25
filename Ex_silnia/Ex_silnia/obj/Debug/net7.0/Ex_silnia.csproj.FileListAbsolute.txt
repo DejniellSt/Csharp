@@ -1,0 +1,15 @@
+/Users/user/Projects/Ex_silnia/Ex_silnia/bin/Debug/net7.0/Ex_silnia
+/Users/user/Projects/Ex_silnia/Ex_silnia/bin/Debug/net7.0/Ex_silnia.deps.json
+/Users/user/Projects/Ex_silnia/Ex_silnia/bin/Debug/net7.0/Ex_silnia.runtimeconfig.json
+/Users/user/Projects/Ex_silnia/Ex_silnia/bin/Debug/net7.0/Ex_silnia.dll
+/Users/user/Projects/Ex_silnia/Ex_silnia/bin/Debug/net7.0/Ex_silnia.pdb
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/Ex_silnia.csproj.AssemblyReference.cache
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/Ex_silnia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/Ex_silnia.AssemblyInfoInputs.cache
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/Ex_silnia.AssemblyInfo.cs
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/Ex_silnia.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/Ex_silnia.dll
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/refint/Ex_silnia.dll
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/Ex_silnia.pdb
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/Ex_silnia.genruntimeconfig.cache
+/Users/user/Projects/Ex_silnia/Ex_silnia/obj/Debug/net7.0/ref/Ex_silnia.dll
